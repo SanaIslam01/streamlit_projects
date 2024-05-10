@@ -222,7 +222,7 @@
 import streamlit as st 
 import pandas as pd 
 import numpy as np 
-import sklearn
+import sklearn 
 
 # Function to read the dataset
 def read_dataset():
